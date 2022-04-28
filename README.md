@@ -1,4 +1,28 @@
 ### Hi there 👋
+I am web Developer and software enginner from Lorestan,IRAN
+
+### A little more about me...
+```jacascript
+const AlirezaMehrzad = {
+  code: ["Nodejs", "Javascript", "express", "Typescript"],
+  askMeAbout: ["web dev", "back-end dev"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
+      ts: ["Node", "Nest"],
+    },
+    frontEnd: {
+      web: ["React", "html", "css", "bootstrap"],
+      phone: ["ReactNative"],
+    },
+    devOps: ["AWS", "Docker", "Nginx"],
+    databases: ["mongoDB", "Mysql"],
+    misc: ["Socket.IO", "DeepLearning and AI"],
+    architecture: ["Serverless Architecture", "SPA"],
+    currrentDocus: "Nodejs and reactjs web development",
+  },
+};
+```
 
 <!--
 **AlirzaMehrzad/AlirzaMehrzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
