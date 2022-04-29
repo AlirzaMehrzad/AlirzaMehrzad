@@ -2,7 +2,7 @@
 I am web Developer and software engineer from Lorestan,IRAN
 
 ### A little more about me...
-```jacascript
+```javascript
 const AlirezaMehrzad = {
   code: ["Nodejs", "Javascript", "express", "Typescript"],
   askMeAbout: ["web dev", "back-end dev"],
