@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am web Developer and software enginner from Lorestan,IRAN
+I am web Developer and software engineer from Lorestan,IRAN
 
 ### A little more about me...
 ```jacascript
