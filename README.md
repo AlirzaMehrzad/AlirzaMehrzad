@@ -15,7 +15,7 @@ const AlirezaMehrzad = {
       web: ["React", "html", "css", "bootstrap"],
       phone: ["ReactNative"],
     },
-    devOps: ["AWS", "Docker", "Nginx"],
+    // SOON => devOps: [ "Docker", "Nginx"],
     databases: ["mongoDB", "Mysql"],
     misc: ["Socket.IO", "DeepLearning and AI"],
     architecture: ["Serverless Architecture", "SPA"],
