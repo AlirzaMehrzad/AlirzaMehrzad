@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Sakok Saas](https://sakok.com/)
 
-- 🌱 I’m currently learning **golang, reactnative**
+- 🌱 I’m always learning **Machine learning, javascript**
 
-- 💬 Ask me about **web dev, back-end dev**
+- 💬 Ask me about **Machine learning, back-end dev**
 
 - 📫 How to reach me **alireza.me@hotmail.com**
 
