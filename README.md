@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirzamehrzad" alt="alirzamehrzad" /></a> </p>
 
-- 🔭 I’m currently working on [Sakok Saas](https://sakok.com/)
+- 🌱 I’m always learning **javascript**
 
-- 🌱 I’m always learning **Machine learning, javascript**
-
-- 💬 Ask me about **Machine learning, back-end dev**
+- 💬 Ask me about **back-end dev**
 
 - 📫 How to reach me **alireza.me@hotmail.com**
 
